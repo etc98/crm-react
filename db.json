@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Eduardo",
+      "empresa": "Globant",
+      "email": "e.trujillo_98@hotmail.com",
+      "telefono": "2323232323",
+      "notas": "Acceso a Udemy",
+      "id": 1
+    },
+    {
+      "nombre": "Cliente act",
+      "empresa": "Globant",
+      "email": "test@test.com",
+      "telefono": "12345",
+      "notas": "",
+      "id": 2
+    },
+    {
+      "nombre": "Cliente test 4",
+      "empresa": "Globant",
+      "email": "sdsds@sds.com",
+      "telefono": "1234",
+      "notas": "xd",
+      "id": 5
+    }
+  ]
+}
