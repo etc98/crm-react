@@ -15,14 +15,6 @@
       "telefono": "12345",
       "notas": "",
       "id": 2
-    },
-    {
-      "nombre": "Cliente test 4",
-      "empresa": "Globant",
-      "email": "sdsds@sds.com",
-      "telefono": "1234",
-      "notas": "xd",
-      "id": 5
     }
   ]
 }
